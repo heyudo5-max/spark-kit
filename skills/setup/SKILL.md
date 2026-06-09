@@ -154,7 +154,7 @@ Here's what was written from public data:
 - context/positioning.md — value pillars, messaging matrix, competitive summary
 - context/competitor-radar.md — [N] competitors with inferred win/loss patterns
 - context/personas/ — [N] personas: [titles]
--context/pricing/ — [N] pricing models,
+- context/pricing/ — [N] pricing models
 
 
 Fields marked [inferred] are Claude's best guess from public data.
