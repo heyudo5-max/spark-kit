@@ -48,19 +48,19 @@ We can sell at a premium or we can capture market share because: [2-3 sentences]
 
 
 ## Key factors or trends impacting pricing 
-[Customers changes]: [2-3 sentences] For ex. Customers are preferring to build their own solutions because of the prevalence of LLMs. 
-[Competitor activity]: 2-3 sentences. For ex. New competitors or race-to-the-bottom price wars. 
+**Customers changes:** [2-3 sentences] For ex. Customers are preferring to build their own solutions because of the prevalence of LLMs. 
+**Competitor activity**: 2-3 sentences. For ex. New competitors or race-to-the-bottom price wars. 
 
 
 ## Customer insights [Pull from review sites, interviews, sales]
- **Customer like our pricing because **
-Reason 1
-Reason 2
+ **Customer like our pricing because:**
+ - Reason 1
+ - Reason 2
 
- **Customers want us to change **
+ **Customers want us to change:**
 
-Reason 1
-Reason 2
+- Reason 1
+- Reason 2
 
 
 
