@@ -12,6 +12,9 @@ Last updated: [YYYY-MM-DD]
  **Pricing model comparison for company and top 2-3 competitors:** 
 
 **Insights:** [2-3 sentences]. Identifying threats, strengths, and opportunities where company can refine or optimize pricing. 
+**Strengths:** [Advantages our pricing offers]
+**Opportunities:** [Areas where we can optimize our pricing]
+**Threats:** [Market, customer, or competitor dynamics that can negatively impact our pricing]
 
 | Name | TCO | Pricing model | Package type
 |------|-------|-------|------|
