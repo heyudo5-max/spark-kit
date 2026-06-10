@@ -1,4 +1,4 @@
-# GTM Starter Kit
+# Spark Kit
 
 Underpinned by [The Revenue Architects](https://www.the-revenue-architects.com)'s [GTM Starter Kit](https://github.com/KarlRaf/gtm-starter-kit/tree/main—) 
 
