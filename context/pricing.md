@@ -57,7 +57,7 @@ We can sell at a premium or we can capture market share because: [2-3 sentences]
 
 
 ## Customer insights [Pull from review sites, interviews, sales]
- **Customer like our pricing because:**
+ **Customers like our pricing because:**
  - Reason 1
  - Reason 2
 
