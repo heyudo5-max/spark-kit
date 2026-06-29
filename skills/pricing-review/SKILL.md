@@ -1,7 +1,7 @@
 # Skill: Pricing Review
 
 **Duration:** 20–30 minutes per company pricing page
-**Output:** `outputs/[date]-[account]-pricing-review.md`
+**Output:** `outputs/[date]-[companyname]-pricing-review.md`
 
 ---
 
