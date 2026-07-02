@@ -53,7 +53,7 @@ Measure how well the pricing page scores against the criteria
 | Criterion | Points | How to assess |
 |-----------|--------|---------------|
 | Clear [value proposition] provided | 0–20 | Strong value proposition =20, weak value proposition = 5, no value proposition = 0 |
-| Uses [non-jargon/technical language] | 0–10 | No jargon =10, jargon with explanation =5, jargon with no explanation = 0 |
+| Uses [non-jargon/technical language] | 0–10 | No jargon =10, jargon with explanation  =5, jargon with no explanation = 0 |
 
 ### Plan configuration (0-30 points)
 | Criterion | Points | How to assess |
@@ -66,7 +66,7 @@ Measure how well the pricing page scores against the criteria
 | Criterion | Points | How to assess |
 |-----------|--------|---------------|
 | Provides [customer logos or testimonials]  | 0–20 | At least 1 customer testimonial/logo = 20, none = 0 |
-| Has FAQs | 0–10 | FAQs provided = 10; no FAQs = 0 |
+| Has Frequently asked questions (FAQs) | 0–10 | FAQs provided = 10; no FAQs = 0 |
 
 ### Psychological triggers (0-10 points)
 | Criterion | Points | How to assess |
@@ -113,22 +113,23 @@ A pricing page should deliver a strong case on why prospects should buy the prod
 - Each plan succinctly describes the benefit to the relevant ICP/Persona. For example Brevo says their Starter plan is “best for single users starting with email and multi-channel marketing
 - Prioritizes the most important features and then includes others under “compare all features” that prospects can explore further
 - Makes the feature list easy to scan
+- When the include technical jargon but they have a clickable "i" icon or tooltip that displays explanatory text (e.g., plan features, limits, or VAT details) when hovered over or clicked.
 
 ## How bad looks
 - Includes a bucket list of features (over 20) without considering the most important jobs-to-be-done
 - Is redundant when describing plans as they progress, a simple “Everything in the lower tier plan” and …” will do
-- Includes technical jargon without explaining it. For example, saying “SSO” without explaining it provides enterprise-grade security
+- Includes technical jargon without explaining it. For example, saying “SSO” without explaining it provides enterprise-grade security. If they have a clickable "i" icon or tooltip that displays explanatory text (e.g., plan features, limits, or VAT details) when hovered over or clicked, then it's okay. 
 
 
 ---
 
-### Step 3: Validate whether plans build trust with social proof, testimonials, FAQs and other tools. 
+### Step 3: Validate whether plans build trust with social proof, testimonials, Frequently asked questions (FAQs) and other tools. 
 
 ## How good looks
 - Shares customer logos, testimonials
 - Enables prospects to calculate their total cost of ownership or ROI or other important metrics
 - Where relevant, provides money-back guarantees or free trials without scrolling
-- Provides FAQs that address the most prescient questions that prospects have regarding pricing
+- Provides Frequently asked questions (FAQs) that address the most prescient questions that prospects have regarding pricing
 
 ** How bad looks
 - No social proof such as customer testimonials or logos
