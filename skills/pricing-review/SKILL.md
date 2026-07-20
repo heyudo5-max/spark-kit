@@ -159,6 +159,7 @@ Recommended actions: [Prioritised optimizations/no changes to be made]
 
 ## Score breakdown
 
+## Summary headline 
 
 ## Value Proposition [Score]
 - [what did they do well] & 1-2 specific rationale why 
