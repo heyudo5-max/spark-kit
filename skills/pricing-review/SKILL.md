@@ -107,8 +107,7 @@ A pricing page should deliver a strong case on why prospects should buy the prod
 
 ## How good looks
 - Have no more than 4 plans listed
-- For each plan, shares context
-- Each plan, provides context and clarity on how plans differ and provides rationale for upgrade path
+- Each plan, provides context and clarity on how plans differ and provides rationale for upgrade path. Also, when progressing across plans, does the pricing make sense? For example, if there's more than a 10x difference from one plan to another is this justifiable? 
 - For example, Lovable higher tier plans remove the Lovable logo watermark in their higher tier plans.
 - Each plan succinctly describes the benefit to the relevant ICP/Persona. For example Brevo says their Starter plan is “best for single users starting with email and multi-channel marketing
 - Prioritizes the most important features and then includes others under “compare all features” that prospects can explore further
@@ -118,7 +117,7 @@ A pricing page should deliver a strong case on why prospects should buy the prod
 ## How bad looks
 - Includes a bucket list of features (over 20) without considering the most important jobs-to-be-done
 - Is redundant when describing plans as they progress, a simple “Everything in the lower tier plan” and …” will do
-- Includes technical jargon without explaining it. For example, saying “SSO” without explaining it provides enterprise-grade security. If they have a clickable "i" icon or tooltip that displays explanatory text (e.g., plan features, limits, or VAT details) when hovered over or clicked, then it's okay. 
+- Includes technical jargon without explaining it. For example, saying “SSO” without explaining it provides enterprise-grade security. If they have a clickable "i" icon or tooltip that displays explanatory text (e.g., plan features, limits, or VAT details) when hovered over or clicked, then it's okay. Also, if it's clear they're only targeting developers or information technology personas (for ex., CTO, CIO, Director IT, etc), who are very technically astute, it's okay for them to include technical jargon. 
 
 
 ---
