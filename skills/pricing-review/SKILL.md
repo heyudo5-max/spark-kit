@@ -60,7 +60,8 @@ Measure how well the pricing page scores against the criteria
 |-----------|--------|---------------|
 | Has [less than 4 plans] | 0–10 | More than 4 plans = 0, Less than 4 plans =10 |
 | Easy to decipher plans | 0–10 | Easy to decipher = 10, Difficult to decipher = 0 |
-| Clear distinction across plans | 0–10 | Clear distinction = 10, Not clear = 0 |
+| Clear distinction across plans | 0–5 | Clear distinction = 5, Not clear = 0 |
+| For complex pricing models, provision of calculator or other tools to quickly estimate total costs | 0–5 | Tools provided = 5, Not present = 0 |
 
 ### Trust building (0-30 points)
 | Criterion | Points | How to assess |
@@ -113,11 +114,13 @@ A pricing page should deliver a strong case on why prospects should buy the prod
 - Prioritizes the most important features and then includes others under “compare all features” that prospects can explore further
 - Makes the feature list easy to scan
 - When the include technical jargon but they have a clickable "i" icon or tooltip that displays explanatory text (e.g., plan features, limits, or VAT details) when hovered over or clicked.
+- When the pricing model is complex, for example, a messaging platform that has a hybrid usage-baed and subscription model, providing tools like sliders, calculators etc, that enable prospects quickly estimate their total costs for each plan. 
 
 ## How bad looks
 - Includes a bucket list of features (over 20) without considering the most important jobs-to-be-done
 - Is redundant when describing plans as they progress, a simple “Everything in the lower tier plan” and …” will do
-- Includes technical jargon without explaining it. For example, saying “SSO” without explaining it provides enterprise-grade security. If they have a clickable "i" icon or tooltip that displays explanatory text (e.g., plan features, limits, or VAT details) when hovered over or clicked, then it's okay. Also, if it's clear they're only targeting developers or information technology personas (for ex., CTO, CIO, Director IT, etc), who are very technically astute, it's okay for them to include technical jargon. 
+- Includes technical jargon without explaining it. For example, saying “SSO” without explaining it provides enterprise-grade security. If they have a clickable "i" icon or tooltip that displays explanatory text (e.g., plan features, limits, or VAT details) when hovered over or clicked, then it's okay. Also, if it's clear they're only targeting developers or information technology personas (for ex., CTO, CIO, Director IT, etc), who are very technically astute, it's okay for them to include technical jargon.
+- Not including tools like sliders, calculators when there is a complex pricing model in place
 
 
 ---
