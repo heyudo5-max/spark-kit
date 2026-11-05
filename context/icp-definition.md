@@ -43,7 +43,7 @@ Last updated: [YYYY-MM-DD]
 *What does their team structure tell us?*
 
 - Has a dedicated [RevOps / Sales Ops / GTM Eng] function
-- VP or Director of [relevant function] hired in last 12 months
+- VP or Director of [relevant function] hired in last 12 months.
 - Actively hiring for [role type] (signals growth / initiative)
 
 ---
