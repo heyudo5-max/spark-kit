@@ -7,7 +7,7 @@
 
 ## Quick Start
 ```
-Read skills/account-list-build/SKILL.md and context/icp-definition.md and output a table with a target account list against our ICP. 
+Read skills/account-list-build/SKILL.md and context/icp-definition.md and output a table with a target account list against our ICP.  
 ```
 
 
