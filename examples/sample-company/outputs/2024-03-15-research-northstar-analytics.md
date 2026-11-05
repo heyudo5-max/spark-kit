@@ -2,7 +2,7 @@
 
 **Date:** 2024-03-15
 **Signal score:** 83/100 — Tier 1
-**Recommended action:** Immediate outreach — AE-owned, manual first touch within 24 hours
+**Recommended action:** Immediate outreach — AE-owned, manual first touch within 24 hours 
 
 ---
 
