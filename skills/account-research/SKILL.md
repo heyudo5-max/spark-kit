@@ -17,7 +17,7 @@ That's it. Claude will read your ICP, signals, and competitor context automatica
 
 ## Purpose
 
-Build a complete intelligence brief on a target account before any outreach. The goal is not a company summary you could get from their About page. The goal is to find the specific trigger — the moment, the hire, the product shift, the funding event — that makes this the right time to reach out, and the right angle to use.
+Build a complete intelligence brief on a target account before any outreach. The goal is not a company summary you could get from their About page. The goal is to find the specific trigger — the moment, the hire, the product shift, the funding event — that makes this the right time to reach out, and the right angle to use. 
 
 ---
 
