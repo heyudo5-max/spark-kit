@@ -1,5 +1,5 @@
 # Spark Kit
-This repo enables GTM teams to automate GTM tasks with prompts: clone and add your context files once, rather than rebuilding context every session. 
+This repo enables GTM teams to automate GTM tasks with prompts: clone and add your context files once, rather than rebuilding context every session.  
 
 ---
 
