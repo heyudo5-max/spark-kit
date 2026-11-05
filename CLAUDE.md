@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-This file is the persistent context layer for your GTM repository. Claude Code reads it automatically at the start of every session. Fill it in once — keep it updated when things change.
+This file is the persistent context layer for your GTM repository. Claude Code reads it automatically at the start of every session. Fill it in once — keep it updated when things change. 
 
 The full context lives in `context/`. This file is the summary layer: enough for Claude to execute most tasks without reading anything else, with pointers to deeper files when needed.
 
