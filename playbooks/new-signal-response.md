@@ -6,7 +6,7 @@
 
 ## Trigger
 
-A Tier 1 or Tier 2 signal fires on an account in your ICP.
+A Tier 1 or Tier 2 signal fires on an account in your ICP. 
 
 ---
 
