@@ -11,7 +11,7 @@
 Read skills/pricing-review/SKILL.md and review pricing for [company.com] or [pricing page URL]
 ```
 
-That's it. Claude will read your ICP, pricing, and competitor context automatically and produce a structured audit. 
+That's it. Claude will read your ICP, pricing, and competitor context automatically and produce a structured audit.  
 ---
 
 ## Purpose
