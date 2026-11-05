@@ -3,7 +3,7 @@
 **Duration:** 15–30 minutes (including your review)
 **Run once:** When you first clone this repo
 **Output:** All context files pre-populated, CLAUDE.md ready to use
-
+ 
 ---
 
 ## Quick Start
