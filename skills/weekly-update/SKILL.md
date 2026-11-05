@@ -2,7 +2,7 @@
 
 **Duration:** 10–15 minutes
 **Cadence:** Weekly (Monday morning recommended)
-**Output:** Updated context files + a brief change log entry
+**Output:** Updated context files + a brief change log entry 
 
 ---
 
