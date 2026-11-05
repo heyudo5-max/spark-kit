@@ -15,7 +15,7 @@ Last updated: [YYYY-MM-DD]
 When Claude builds outreach or handles a competitive scenario, it references this file to:
 - Sharpen the angle when an account uses or is evaluating a competitor
 - Generate objection-handling copy
-- Flag accounts for competitive treatment in sequences
+- Flag accounts for competitive treatment in sequences.
 
 ---
 
