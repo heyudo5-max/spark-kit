@@ -9,7 +9,7 @@
 
 Single account:
 ```
-Read skills/icp-scoring/SKILL.md and score [company.com] against our ICP
+Read skills/icp-scoring/SKILL.md and score [company.com] against our ICP 
 ```
 
 Batch:
