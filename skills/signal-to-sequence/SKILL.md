@@ -9,7 +9,7 @@
 
 ```
 Read skills/signal-to-sequence/SKILL.md.
-Build a Tier 2 campaign for accounts triggering the [signal name] signal.
+Build a Tier 2 campaign for accounts triggering the [signal name] signal. 
 Target the [persona title] persona.
 ```
 
