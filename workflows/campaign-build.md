@@ -6,7 +6,7 @@
 
 ## Purpose
 
-A campaign is not a sequence. A sequence is copy and timing. A campaign is a defined target segment, a clear trigger, a measurement plan, and a sequence — in that order. This workflow ensures we never write copy before the strategy is clear.
+A campaign is not a sequence. A sequence is copy and timing. A campaign is a defined target segment, a clear trigger, a measurement plan, and a sequence — in that order. This workflow ensures we never write copy before the strategy is clear. 
 
 ---
 
