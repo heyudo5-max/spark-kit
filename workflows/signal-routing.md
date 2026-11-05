@@ -6,7 +6,7 @@
 
 ## Purpose
 
-Signals mean nothing without routing. This workflow defines what happens when a signal fires — which account gets enriched, which rep gets notified, which sequence gets triggered, and which signals cancel or delay outreach.
+Signals mean nothing without routing. This workflow defines what happens when a signal fires — which account gets enriched, which rep gets notified, which sequence gets triggered, and which signals cancel or delay outreach. 
 
 ---
 
